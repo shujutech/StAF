@@ -1,0 +1,7 @@
+{
+	"workbench.colorCustomizations": {
+		"editor.findMatchBackground": "#FF0000",
+		"editor.findMatchHighlightBackground": "#FF0000",
+		"editor.findMatchBorder": "#00FF00"
+	}
+}

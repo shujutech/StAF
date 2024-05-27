@@ -1,0 +1,32 @@
+.terms-container {
+	border: none !important;
+}
+@media (min-width: 768px) {
+	.terms-container {
+		width: 100% !important;
+	}
+}
+ .tnc-title {
+	margin-top: 20px;
+	margin-left: auto;
+	margin-right: auto;
+	font-weight: 700;
+	font-size: 20px;
+	text-align: center;
+}
+.tnc-sub-title {
+	margin-top: 20px;
+}
+.tnc-box {
+	border-radius: 5px;
+}
+.title-01 {
+	font-weight: 700;
+	font-size: 16px;
+	margin-top: 30px;
+	margin-bottom: 15px;
+}
+ul {
+	padding: 10px;   
+	margin-left: 20px;
+}

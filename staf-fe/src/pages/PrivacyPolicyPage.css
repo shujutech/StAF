@@ -1,0 +1,32 @@
+.pp-container {
+	border: none !important;
+}
+@media (min-width: 768px) {
+	.pp-container {
+		width: 100% !important;
+	}
+}
+p {
+	margin-bottom: 1.5rem;
+}
+.pp-title {
+	margin-bottom: 1rem;
+	margin-left: auto;
+	margin-right: auto;
+	font-weight: 700;
+	font-size: 20px;
+	text-align: center;
+}
+.pp-sub-title {
+	margin-bottom: 2rem;
+}
+.pp-box {
+	border: none;
+}
+
+ul {
+	padding: 10px;   
+	margin-left: 20px;
+	margin-bottom: 1.5rem;
+}
+ 
